@@ -10,6 +10,7 @@ Configurar duas VLANs em dois switches Cisco 2960, utilizando um enlace Trunk IE
 - Cabos Ethernet
 
 ## Topologia
+![Topologia do Laboratório 04](topologia-lab04.png.png)
 - SW-01 Gi0/1 conectado ao SW-02 Gi0/1 (Trunk)
 - PC-01 conectado ao SW-01 Fa0/1 (VLAN 10)
 - PC-02 conectado ao SW-01 Fa0/2 (VLAN 20)
